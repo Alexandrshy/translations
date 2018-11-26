@@ -10,6 +10,7 @@
 * [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8) – **[FedorArbuzov](https://github.com/FedorArbuzov)** — Переведено другими
 * [Boost your React with State Machines](https://medium.freecodecamp.org/boost-your-react-with-state-machines-1e9641b0aa43) - **[NKBelousov](https://github.com/NKBelousov)** — Переведено
 * [What and How to Test with Jest and Enzyme. Full Instruction on React Components Testing](https://djangostars.com/blog/what-and-how-to-test-with-enzyme-and-jest-full-instruction-on-react-component-testing/) - **[Alexandrshy](https://github.com/Alexandrshy)** —Переведено
+* [These are the concepts you should know in React.js (after you learn the basics)] (https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030) - **[Alexandrshy](https://github.com/Alexandrshy)**
 
 ## Redux
 * [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1) - **[maksugr](https://github.com/maksugr)** — Переведено
